@@ -1,0 +1,13 @@
+G:\Git\FloatingClock\FloatingClock\bin\Release\FloatingClock.exe.config
+G:\Git\FloatingClock\FloatingClock\bin\Release\FloatingClock.exe
+G:\Git\FloatingClock\FloatingClock\bin\Release\FloatingClock.pdb
+G:\Git\FloatingClock\FloatingClock\obj\Release\MainWindow.g.cs
+G:\Git\FloatingClock\FloatingClock\obj\Release\App.g.cs
+G:\Git\FloatingClock\FloatingClock\obj\Release\FloatingClock_MarkupCompile.cache
+G:\Git\FloatingClock\FloatingClock\obj\Release\FloatingClock_MarkupCompile.lref
+G:\Git\FloatingClock\FloatingClock\obj\Release\MainWindow.baml
+G:\Git\FloatingClock\FloatingClock\obj\Release\FloatingClock.g.resources
+G:\Git\FloatingClock\FloatingClock\obj\Release\FloatingClock.Properties.Resources.resources
+G:\Git\FloatingClock\FloatingClock\obj\Release\FloatingClock.csproj.GenerateResource.Cache
+G:\Git\FloatingClock\FloatingClock\obj\Release\FloatingClock.exe
+G:\Git\FloatingClock\FloatingClock\obj\Release\FloatingClock.pdb
